@@ -7,7 +7,7 @@
   "license": "ISC",
   "devDependencies": {
     "browserify": "^10.2.1",
-    "browserify-ngannotate": "0.6.0",
+    "browserify-ngannotate": "^1.0.0",
     "http-server": "^0.8.0"
   },
   "dependencies": {
